@@ -1,0 +1,5 @@
+1. novo repositório
+2. nomear
+3. descrever
+4. marcar como público
+5. criar

@@ -1,0 +1,8 @@
+1. Copiar https
+2. Dar um Git Bash Here na pasta que quero armazenar
+3. No Git dar o comando "git clone" e colar (repositório clonado)
+4. Para trabalhar dentro de um repositório do meu arquivo dou o comando "cd [repositório]"
+5. "git status" pra ver como está o repositório
+6. Dentro do repositório posso criar outras pastas
+7. Levar para o servidor remoto: "git add ." ou "git add -a"; "git commit -m e men
+ssagem entre aspas"; "git push origin main"
